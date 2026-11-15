@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "FORM",
+    "slug": "form-personal-fitness",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "form",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.personal.formfitness",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "plugins": [
+      "expo-dev-client"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "REPLACE_WITH_EXPO_PROJECT_ID"
+      }
+    }
+  }
+}
